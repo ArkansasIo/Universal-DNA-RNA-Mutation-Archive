@@ -49,3 +49,12 @@ See `docs/MATHEMATICAL_FRAMEWORK.md` for probability, mutation accumulation, seq
 
 ## Important limitations
 Variant consequences depend on the organism, reference sequence, transcript, genetic background, and environment. Do not infer pathogenicity or adaptation from sequence difference alone. DNA variants, RNA-genome variants, RNA editing, and epigenetic changes are distinct record types and should not be conflated.
+
+## Research documentation
+
+- [Theory catalog](docs/THEORY_CATALOG.md)
+- [Mathematical models: algebra, calculus, probability, and statistics](docs/MATHEMATICAL_MODELS.md)
+- [Logic statements and true/false claim classifications](docs/LOGIC_AND_TRUTH_CLAIMS.md)
+- [Hypotheses and mathematical proof obligations](docs/HYPOTHESES_AND_PROOF_OBLIGATIONS.md)
+- [Comparative mutation dynamics thesis](docs/THESIS_MUTATION_DYNAMICS.md)
+- [System design document](docs/SYSTEM_DESIGN_DOCUMENT.md)
