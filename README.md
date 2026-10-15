@@ -59,6 +59,9 @@ Variant consequences depend on the organism, reference sequence, transcript, gen
 - [Comparative mutation dynamics thesis](docs/THESIS_MUTATION_DYNAMICS.md)
 - [System design document](docs/SYSTEM_DESIGN_DOCUMENT.md)
 
+## Literature review
+- [Literature review roadmap: evolutionary and biological sciences](docs/LITERATURE_REVIEW_ROADMAP.md)
+
 ## CRISPR, speculative research, and evolution
 - [CRISPR research framework](docs/CRISPR_RESEARCH_FRAMEWORK.md)
 - [Speculative hypotheses and research ideas](docs/SPECULATIVE_HYPOTHESES_AND_RESEARCH_IDEAS.md)
