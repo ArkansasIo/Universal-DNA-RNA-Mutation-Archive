@@ -58,3 +58,9 @@ Variant consequences depend on the organism, reference sequence, transcript, gen
 - [Hypotheses and mathematical proof obligations](docs/HYPOTHESES_AND_PROOF_OBLIGATIONS.md)
 - [Comparative mutation dynamics thesis](docs/THESIS_MUTATION_DYNAMICS.md)
 - [System design document](docs/SYSTEM_DESIGN_DOCUMENT.md)
+
+## CRISPR, speculative research, and evolution
+- [CRISPR research framework](docs/CRISPR_RESEARCH_FRAMEWORK.md)
+- [Speculative hypotheses and research ideas](docs/SPECULATIVE_HYPOTHESES_AND_RESEARCH_IDEAS.md)
+- [Applications to life and evolution](docs/LIFE_EVOLUTION_APPLICATIONS.md)
+- [Why mutations exist and whether to engineer them](docs/WHY_MUTATIONS_EXIST_AND_WHETHER_TO_ENGINEER_THEM.md)
