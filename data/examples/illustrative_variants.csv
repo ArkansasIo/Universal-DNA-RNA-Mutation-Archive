@@ -1,0 +1,3 @@
+record_id,organism_name,taxon_id,molecule_type,sequence_accession,reference_accession_version,variant_name,variant_type,reference_allele,alternate_allele,evidence_status,source_database,source_url,retrieved_date
+TEST-ILLUSTRATIVE-001,Illustrative organism,TEST,DNA,TESTSEQ.1,TESTSEQ.1,Example substitution,substitution,A,G,illustrative,Local test fixture,https://example.org/not-a-real-record,2026-10-15
+TEST-ILLUSTRATIVE-002,Illustrative organism,TEST,RNA,TESTRNA.1,TESTRNA.1,Example RNA substitution,substitution,C,U,illustrative,Local test fixture,https://example.org/not-a-real-record,2026-10-15
