@@ -1,0 +1,27 @@
+{
+  "schema_version": "1.0",
+  "variants": [
+    {
+      "record_id": "ILLUSTRATIVE-SNV-001",
+      "molecule_type": "DNA",
+      "variant_type": "SNV",
+      "coordinate_system": "sequence-relative-1based",
+      "reference_allele": "G",
+      "alternate_allele": "A",
+      "accession": "SYNTHETIC.1",
+      "start_pos": 3,
+      "end_pos": 3,
+      "organism_taxon_id": "synthetic",
+      "scientific_name": "Synthetic test organism",
+      "evidence_status": "illustrative",
+      "interpretation": "Software test record only; not a biological claim.",
+      "illustrative": true,
+      "provenance": {
+        "source_database": "synthetic-test",
+        "source_url": "https://example.invalid/synthetic-test",
+        "source_release": "1.0",
+        "source_record_version": "1"
+      }
+    }
+  ]
+}
